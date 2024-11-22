@@ -1,0 +1,39 @@
+/*DOCUMENTO CSS*/
+* {margin: 0;
+    padding:0; }
+
+header, div, nav, a { box-sizing: border-box;}
+
+/*Encabezados*/
+h1 {}
+
+h2 {}
+
+/*layout*/
+.cabecera { width:100%;
+            min-height: 1px;
+            background: red; }
+
+
+.bar { width:100%;
+    min-height: 1px; }
+
+.logo {text-align: center;
+font-size: 3cm;
+padding: 8px 0px; }
+
+.menu { width: 100%;
+    min-height: 1px; }
+
+.links {width: 100%;
+        min-height: 48px;
+        background: whitesmoke;
+         }
+
+.items { width: 25%;
+        height: 30px;
+        text-align: center;
+        line-height: 2.5; 
+        border: 1px solid black;
+        text-decoration: none; }
+

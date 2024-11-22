@@ -1,0 +1,18 @@
+/*Documento css */
+
+body{ background-color: antiquewhite; 
+    font-family: "Oswald", sans-serif;}
+
+h1,  h3 {color:aqua
+        font size: 2cm;
+        text-align: center;
+        font-weight: bold; 
+        text-transform: uppercase;
+        text-decoration:underline; }
+
+h2, h4 {color:aquamarine}
+
+p small {color: red}
+
+div p {line-height: 3mm;}
+

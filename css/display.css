@@ -1,0 +1,21 @@
+/DOCUMENTO CSS/
+
+* {margin: 0;
+    padding: 0;}
+
+section, div {box-sizing: border-box;}
+
+.container {display: flex;
+            background: purple;
+            padding: 15px;
+            flex-flow: row wrap;
+            justify-content: space-between;
+            height: 600px;
+            align-items: stretch;
+        }
+
+.item {
+    background: orange;
+    width: 25%;
+    
+}

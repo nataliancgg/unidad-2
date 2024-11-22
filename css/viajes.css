@@ -1,0 +1,9 @@
+/*documento*/
+
+body { background-color: rgba(80, 92, 174, 0.97); 
+    font-family: "Lato", sans-serif;}
+
+    h1,h2 {color: rgb(28, 28, 28);
+        font-size: 2em;
+        text-align: center;
+        font-weight: bold;}
